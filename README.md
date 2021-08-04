@@ -1,7 +1,10 @@
 # SM-ChatbotWithTensorflow
 the chatbot is ready in english
+
 wait for the arabic version :')
+
 wait for the UI version :')
+
 in progress :)
 
 
