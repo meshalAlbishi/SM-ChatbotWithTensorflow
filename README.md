@@ -1,5 +1,5 @@
 # SM-ChatbotWithTensorflow
-the chatbot is ready in english
+the chatbot is ready in english with no UI
 
 wait for the arabic version :')
 
