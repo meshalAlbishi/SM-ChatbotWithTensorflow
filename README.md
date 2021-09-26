@@ -5,8 +5,6 @@ wait for the arabic version :')
 
 wait for the UI version :')
 
-in progress :)
-
 
 ## Installing Dependencies
 
